@@ -1,3 +1,6 @@
+# Makers Course Content
+Practice building routes in Flask with GET and POST methods.
+
 # Flask Web & Database Project Starter
 
 This is a starter project for you to use to start your Flask web & database
